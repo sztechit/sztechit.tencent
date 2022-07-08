@@ -85,5 +85,3 @@ api.im.qcloud.com
 docs.qq.com
 layout-1258344699.cos.ap-guangzhou.myqcloud.com
 down-30005.sz.gfp.tencent-cloud.com
-cdn.meeting.tencent.com
-
